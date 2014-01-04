@@ -44,8 +44,6 @@ public class EditorTest {
 						
 			}			
 		}while(!choice.equalsIgnoreCase("x"));
-		
-		System.out.println("You are out of the program...."); //TODO: to be deleted...
 
 	}
 
